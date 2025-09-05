@@ -106,5 +106,11 @@ h3{
         margin-left: 36px;
         font-size: 18px;
     }
+
+    .contact{  
+        text-align: center;
+        width: 75%;
+    }
+    
  
 }
